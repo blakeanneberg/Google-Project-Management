@@ -1,2 +1,2 @@
 # Google-Project-Management-Notes
- Notes from Coursera
+ Notes from Coursera.
