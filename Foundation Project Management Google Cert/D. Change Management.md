@@ -1,0 +1,27 @@
+- Change management and PM role in the process
+- Success of a project also means all the changes that people will need to implement as a result. 
+- Core Concepts
+	- Create a sense of ownership and urgency
+	- Figure out the right combination of skills and personalities 
+		- Tools
+			- Surveys
+			- Flowcharts
+			- Culture Mapping: can illustrate the company's culture and how the company's values, norms, and employees behavior may be affected by the change. https://www.strategyzer.com/blog/posts/2015/10/13/the-culture-map-a-systematic-intentional-tool-for-designing-great-company-culture
+			- Change Management Guiding Principles: https://d3c33hcgiwev3.cloudfront.net/EcO9Op-aTUGDvTqfms1BCg_22992a0fc216492c830c65c38b2610f1_Change-Management-Framework.pptx?Expires=1688515200&Signature=e6FskLbWpQKaI4aZ~1Pkd7~C9ul2pVQEnubGIJ5f5s5z8Y9byQlT1AVOww5nxHwrGh8iL4At2n5Y4YlVPzLceYYWlzdFrchXqqghRQkTHRo3DRv3Zkxn69NDqagP0uVSllfgXrL2Ve9wYQ3pOEhUza~LI2stow7KPl0tc8FCZfw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+	- Effective communication
+		- Being transparent 
+		- Upfront with plans and ideas
+		- Making information availableo
+
+Corporate governance, and they will influence your projects.
+- Corporate governance: is the framework by which an organization achieves its goals and objectives
+- Steering committees: Steering committees decide on the priorities of an organization and manage the general course of its operations. The steering committee essentially acts as an advisory board or council to help the project manager and the company make and approve strategic decisions that affect both the company and the project. 
+- Project governance: Project governance is the framework for how project decisions are made. Project governance helps keep projects running smoothly, on time, and within budget. Project governance involves all the key elements that make a project successful. It tells you what activities an organization does and who is responsible for those activities. Project governance covers policies, regulations, functions, processes, procedures, and responsibilities. 
+- Effective project governance ensures that an organization’s projects are aligned to the organization’s larger objectives, are delivered efficiently, and are sustainable. This includes:
+	- Considering the long- and short-term interests of your organization
+	- Making thoughtful decisions about which projects to take on and avoiding projects if you do not have sufficient resources
+	- Providing timely, relevant, and reliable information to the board of directors and other major stakeholders 
+	- Eliciting the input and buy-in of senior managers since they are the decision-makers 
+	- During the initiation phase, prioritizing clear, reachable, and sustainable goals in order to reduce confusion and conflict
+	- During the planning phase, assigning ownership and accountability to an experienced team to deliver, monitor, and control the process 
+	- During the execution phase, learning from mistakes and adapting to new or improved knowledge
